@@ -9,13 +9,13 @@
 
 <div>
   <a href="https://github.com/Gabolog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabolog&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabolog&layout=compact&langs_count=16&theme=ocean_dark"/>
+  <img height="180"  src="https://github-readme-stats.vercel.app/api?username=Gabolog&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180" width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabolog&layout=compact&langs_count=16&theme=ocean_dark"/>
 </div>    
   
 ##
   
-#### 💡 Skills Set
+#### 💡 Habilidades 💡
   
 <div style="display: inline_block">
   <kbd align="center" background-color="coral">
@@ -39,7 +39,7 @@
 <br />
 <br />
 </kbd> 
-  ##
+  
   
  
   
@@ -54,3 +54,15 @@
 <br />
 </kbd>  
   
+  ##
+  
+  <div>
+      <a href="https://www.linkedin.com/in/gabriel-santos-a60414b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://www.instagram.com/cabalogb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" targer="_blank"></a>
+
+  </div>
+  
+  ##
+
+  ![Snake animation](https://github.com/samaracaldas/samaracaldas/blob/output/github-contribution-grid-snake.svg)   
