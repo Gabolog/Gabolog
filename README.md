@@ -1,8 +1,8 @@
 ### Olá, Meu nome é Gabriel, seja bem vindo ao meu perfil 👋
 
-- 🔭 Trabalhando fora da area (por enquanto🙃) ...
+- 🔭 Trabalhando fora da área (por enquanto🙃) ...
 - 🌱 Estou aprendendo javascript
-- 📜 Cursando Primeiroo periodo em Análise e Desenvolvimento de Sistemas
+- 📜 Cursando primeiro período em Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: Ele/dele He/him
 
 🎲 Minha atividade no GitHub 🎲
@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/Gabolog">
   <img height="180"  src="https://github-readme-stats.vercel.app/api?username=Gabolog&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180" width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabolog&layout=compact&langs_count=16&theme=ocean_dark"/>
+  <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabolog&layout=compact&langs_count=16&theme=ocean_dark"/>
 </div>    
   
 ##
@@ -31,7 +31,7 @@
 <br /> 
 </kbd>
   
-<kbd align="center" color="black">
+<kbd align="center" color="purple">
 <kbd>Estudando:</kbd>
  <br />
  <br /> 
