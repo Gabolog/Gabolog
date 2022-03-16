@@ -65,4 +65,4 @@
   
   ##
 
-  ![Snake animation](https://github.com/samaracaldas/samaracaldas/blob/output/github-contribution-grid-snake.svg)   
+  ![Snake animation](https://github.com/Gabolog/Gabolog/blob/output/github-contribution-grid-snake.svg)   
