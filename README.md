@@ -64,4 +64,4 @@
   </div>
   
   ##
-![snake gif](https://github.com/gabolog/gabolog/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gabolog/gabolog/blob/output/github-contribution-grid-snake-dark.svg)
