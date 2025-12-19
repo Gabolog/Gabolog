@@ -2,8 +2,7 @@
 
 - 🔭 Trabalhando fora da área (por enquanto🙃) ...
 - 🌱 Estou aprendendo javascript
-- 📜 Cursando quinto período em Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: Ele/dele He/him
+- 📜 Finalizando Cursando Análise e Desenvolvimento de Sistemas
 
 🎲 Minha atividade no GitHub 🎲
 
